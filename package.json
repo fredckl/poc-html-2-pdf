@@ -1,0 +1,12 @@
+{
+  "name": "html2pdf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "html-pdf-chrome": "^0.7.1"
+  },
+  "scripts": {
+    "gen": "node index.js"
+  }
+}

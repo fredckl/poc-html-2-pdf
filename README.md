@@ -1,0 +1,6 @@
+run
+
+```bash
+yarn gen
+
+```
